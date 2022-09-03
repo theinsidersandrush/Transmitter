@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# The Insider Sandrush: Transmitter mod
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Just drag-and-drop to mods folder and open Fabric version of your choices.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Anyone is able to download the source code and modify it in any way. However, if you want to contribute to my mod and actually fixes issues and bugs, feel free to contact me before doing so. And, don't be shy :)
