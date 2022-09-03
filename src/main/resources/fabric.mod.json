@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "transmitter",
+  "version": "${version}",
+
+  "name": "Transmitter",
+  "description": "Testing mod for transmitting capability.",
+  "authors": [
+    "The Insider Sandrush"
+  ],
+  "contact": {
+    "homepage": "https://linktr.ee/thekimpossiblechannel;",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/transmitter/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.theinsidersandrush.transmitter.Transmitter"
+    ],
+    "client": [
+      "com.theinsidersandrush.transmitter.TransmitterClient"
+    ]
+  },
+  "mixins": [
+    "transmitter.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
