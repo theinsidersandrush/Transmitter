@@ -1,5 +1,8 @@
 {
-  "variants": {
-    "": { "model": "transmitter:block/transmitter_block"}
+  "parent": "transmitter:block/side",
+  "textures": {
+      "bottom": "block/transmitter_block",
+      "top": "block/transmitter_block",
+      "side": "block/transmitter_block"
   }
 }
