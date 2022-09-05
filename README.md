@@ -16,11 +16,11 @@
   - [Satellite radio such as XM or Sirius](https://en.wikipedia.org/wiki/Satellite_radio) 
  - Just like in real life (if you have an license to do so).
 - __Note: You can transmit radio stations from the Internet, such as [BBC Radio 1](https://bbc.co.uk/radio1) and other stations as well if they're providing you a stream links.__
-- __IMPORTANT NOTICE: This mod still in development stage and developed inside [Visual Studio Code](https://code.visualstudio.com).__
+- __IMPORTANT NOTICE: This mod still in development stage and developed inside [Visual Studio Code](https://code.visualstudio.com). Some code might be wrong or so.__
 
 ## Setup
 
-Just drag-and-drop to mods folder and open Fabric (1.19 and above). Requires Fabric API!
+Just drag-and-drop to mods folder and open Fabric (1.19 and above). __Requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)!__
 
 ## License
 Anyone is able to download the source code and modify it in any way. However, if you want to contribute to my mod and actually fixes issues and bugs, feel free to contact me before doing so. And, don't be shy when asking me :) 
