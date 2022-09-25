@@ -14,7 +14,7 @@
   - [Digital Audio Broadcasting (DAB)](https://en.wikipedia.org/wiki/Digital_Audio_Broadcasting) 
   - [DAB+ (new standards of DAB, adds full stereophonic (not Joint stereo) sound on digital radio)](https://en.wikipedia.org/wiki/Digital_Audio_Broadcasting#DAB+)
   - [Satellite radio such as XM or Sirius](https://en.wikipedia.org/wiki/Satellite_radio) 
- - Just like in real life (if you have an license to do so).
+ - Just like in real life (if you have an license in real life to do so).
 - __Note: You can transmit radio stations from the Internet, such as [BBC Radio 1](https://bbc.co.uk/radio1) and other stations as well if they're providing you a stream links.__
 - __IMPORTANT NOTICE: This mod still in development stage and developed inside [Visual Studio Code](https://code.visualstudio.com). Some code might be wrong or so.__
 
