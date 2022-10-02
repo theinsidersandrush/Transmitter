@@ -1,10 +1,14 @@
 # The Insider Sandrush: Transmitter mod
 - A Minecraft mod capable of transmitting:
-  - [FM](https://en.wikipedia.org/wiki/FM_broadcast_band) 
-    - [(OIRT (also known as Cold War radio frequencies) (65.9-74MHz)](https://en.wikipedia.org/wiki/FM_broadcast_band#OIRT_bandplan) 
+  - [FM broadcast](https://en.wikipedia.org/wiki/FM_broadcast_band) 
+    - [(OIRT (also known as Cold War radio frequencies) (65.9-74MHz)](https://en.wikipedia.org/wiki/FM_broadcast_band#OIRT_bandplan)
+      - __Stereo provided, no RDS.__
     - [Japanese FM band](https://en.wikipedia.org/wiki/FM_broadcast_band#Japanese_bandplan)
+      - __Stereo provided, no RDS.__
     - [FM extended band in Brazil](https://en.wikipedia.org/wiki/FM_extended_band_in_Brazil)
+      - - __Stereo provided, RDS may available soon.__
     - 87.5-108MHz (Worldwide)
+      - __Stereo provided, RDS and Radio Text is fully provided with certain automation.__
   - [Medium wave (AM band)](https://en.wikipedia.org/wiki/AM_broadcasting) 
       - [Stereo C-QUAM](https://en.wikipedia.org/wiki/C-QUAM)
       - Mono 
