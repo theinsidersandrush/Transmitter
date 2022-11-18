@@ -16,9 +16,13 @@ public class ModBlocks {
     // Hard code to think at all.
     public static final Block TRANSMITTER_BLOCK = registerBlock("transmitter_block",
         new Block(FabricBlockSettings.of(Material.METAL).strength(4f).resistance(4.0f)), null);
-        public static final Block TRANSMITTER_MAST = registerBlock("transmitter_mast",
+        public static final Block TRANSMITTER_ANTENNA = registerBlock("transmitter_antenna",
         new Block(FabricBlockSettings.of(Material.METAL).strength(5f).resistance(5.0f)), null);
         public static final Block RADIO = registerBlock("radio",
+        new Block(FabricBlockSettings.of(Material.METAL).strength(2.5f).resistance(3.0f)), null);
+        public static final Block EXTERNAL_ANTENNA = registerBlock("external_antenna",
+        new Block(FabricBlockSettings.of(Material.METAL).strength(2.5f).resistance(3.0f)), null);
+        public static final Block ANTENNA_CABLE = registerBlock("antenna_cable",
         new Block(FabricBlockSettings.of(Material.METAL).strength(2.5f).resistance(3.0f)), null);
 
 

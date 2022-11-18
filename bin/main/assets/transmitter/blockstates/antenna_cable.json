@@ -1,0 +1,8 @@
+{
+    "variants": {
+      "facing=north": { "model": "transmitter:block/antenna_cable", "uvlock": true },
+      "facing=east":  { "model": "transmitter:block/antenna_cable", "y":  90, "uvlock": true },
+      "facing=south": { "model": "transmitter:block/antenna_cable", "y": 180, "uvlock": true },
+      "facing=west":  { "model": "transmitter:block/antenna_cable", "y": 270, "uvlock": true }
+    }
+  }
