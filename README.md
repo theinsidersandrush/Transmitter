@@ -1,3 +1,5 @@
+__IMPORTANT NOTICE: I'll be back soon. I just recovering from computer malfunction twice this year. Estimated date when I'm going back to development scene is unknown. Looks like I'm addicted to Grand Theft Auto IV...__
+
 # The Insider Sandrush: Transmitter mod
   ## English
 - A Minecraft mod capable of transmitting:
