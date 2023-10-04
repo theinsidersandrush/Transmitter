@@ -1,4 +1,4 @@
-__IMPORTANT NOTICE: I'm back. And, I have to build from ground up back again after switching from Java to Kotlin. Looks like I'm addicted to Grand Theft Auto IV...__
+__IMPORTANT NOTICE: I'm back. And, I have to build from ground up back again. Looks like I'm addicted to Grand Theft Auto IV...__
 
 # The Insider Sandrush: Transmitter mod
   ## English
