@@ -1,4 +1,4 @@
-__IMPORTANT NOTICE: This project is currently unmaintained. However, be right back.__
+__IMPORTANT NOTICE: This project is now resurrected. Now working on rewriting the code and start developing in Linux instead of Windows. Last archived on 31 October 2023.__
 
 # The Insider Sandrush: Transmitter mod
   ## English
